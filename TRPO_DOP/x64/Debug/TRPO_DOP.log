@@ -1,0 +1,3 @@
+﻿  TRPO_DOP.cpp
+D:\c++\TRPO_DOP\TRPO_DOP.cpp(115): warning C4715: 'menu': not all control paths return a value
+  TRPO_DOP.vcxproj -> D:\c++\TRPO_DOP\x64\Debug\TRPO_DOP.exe
